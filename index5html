@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   let valorProduto = parseFloat(prompt("Digite o valor do produto:"));
+
+let valorReajustado = valorProduto * 1.3333;
+
+alert(valorReajustado);
+
+    </script>
+
+</script>
+</head>
+<body>
+    
+</body>
+</html>
